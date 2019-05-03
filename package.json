@@ -1,0 +1,26 @@
+{
+  "name": "node-bot",
+  "version": "1.0.0",
+  "description": "A NPM bot",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/GabeBarrera/node-bot.git"
+  },
+  "keywords": [
+    "npm"
+  ],
+  "author": "Gabe Barrera",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/GabeBarrera/node-bot/issues"
+  },
+  "homepage": "https://github.com/GabeBarrera/node-bot#readme",
+  "dependencies": {
+    "jquery": "^3.4.1",
+    "start": "^5.1.0"
+  }
+}
